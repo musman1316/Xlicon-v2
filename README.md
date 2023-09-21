@@ -1,30 +1,37 @@
 
 <p align="center">  
-  <a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2">
-    <img alt="X-2.0" height="300" src="https://i.ibb.co/L1SGhJy/images.jpg">
-    <h1 align="center">XLICON-BOT</h1>
-    
+  <a href="https://i.imgur.com/HQYwqqf.jpeg">
+    <img alt="secktor docs" height="300" src="https://i.imgur.com/HQYwqqf.jpeg">
+    <h1 align="center"> U̶S̶M̶A̶N̶-̶S̶E̶R̶ </h1>
   </a>
-</p>
+</p>  
 <p align="center">
-<a href="https://github.com/ahil15"><img title="Author" src="https://img.shields.io/badge/XLICON-BOT-black?style=for-the-badge&logo=whatsapp"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/ahil15?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ahil15?label=Followers&style=social"></a>
-<a href="https://github.com/ahil15/Xlicon-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ahil15/Xlicon-v2?&style=social"></a>
-<a href="https://github.com/ahil15/Xlicon-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/ahil15/Xlicon-v2?style=social"></a>
-<a href="https://github.com/ahil15/Xlicon-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ahil15/Xlicon-v2?label=Watching&style=social"></a>
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Fc21e9NGjeU64dLYhqR2Tv" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/Fc21e9NGjeU64dLYhqR2Tv](https://wa.me/6282116863163?text=.menu)" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
 </p>
 
-## Notice
+---
 
-We request you to Read our full repository or u might get issues at deploying the bot...Developed by Slasher..!!
+<p align="center"><img src="https://profile-counter.glitch.me/{mrusman1316}/count.svg" alt="mrusman1316:: Visitor's Count" /></p>
 
-## Support
+<p align="center">
+   <a href="https://github.com/mrusman1316"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=USMAN+SER+OFFICIAL;Creator+USMAN-SER;There+is+Ease+With+Difficulty;Follow+My+Github" alt="UwU">
+</p>
 
-For our bot support, Do email [ infiniteytff@gmail.com ] or join our Whatsapp Support Group.
+---
 
-<a href="https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lime?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+[![License: GPL-3](https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/)
+
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrusman1316%2FUsman-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![forks](https://img.shields.io/github/forks/mrusman1316/Usman-MD?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/mrusman1316/Dragon-MD-V4?style=social)
 
 #### SETUP
 
