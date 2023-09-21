@@ -10,20 +10,20 @@ global.antitags = true;
 
 
 //auto functioner
-global.autoTyping = false;                //auto tying by default off.
+global.autoTyping = true;                //auto tying by default off.
 global.autoRecord = false;                //auto recording by default off.
 global.groupevent = false;                //This is the new variable for controlling group event handling.
 global.statusseen = true;                 //This is the new variable for controlling status seen.
 
 
 //
-global.Owner = ["8801853262586","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801853262586","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801928502256"];
-global.OwnerName = "Slasher";
-global.BotName = "XLICON-MD";
+global.Owner = ["923090658722","923351300389"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["923351300389","923090658722"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["923090658722"];
+global.OwnerName = "𝗨ˢᵐᵃⁿ 𝗦ᵉʳ";
+global.BotName = "𝗨ˢᵐᵃⁿ 𝗦ᵉʳ";
 global.packname = "X-2.0 Bot";                             //Do not change.
-global.author = "By: Slasher";                               //Do not change.
+global.author = "By: Usman Ser";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
 
@@ -38,11 +38,11 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "Dhaka, Bangladesh";                   
+global.location = "Layyah, Pakistan";                   
 global.reactmoji = "✅";
 global.themeemoji = "💖";
 global.vidmenu = { url: 'https://tenor.com/view/jujutsu-kaisen0-yuta-okkotsu-gif-26767662' };
-global.websitex = "https://github.com/ahil15";
+global.websitex = "https://github.com/mrusman1316";
 global.lolhuman = "KaysaS";
 
 
